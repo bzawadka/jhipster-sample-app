@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/bzawadka/jhipster-sample-app.png?branch=master)](https://travis-ci.org/bzawadka/jhipster-sample-app)
+[![codecov.io](https://codecov.io/github/bzawadka/jhipster-sample-app/coverage.svg?branch=master)](https://codecov.io/github/bzawadka/jhipster-sample-app?branch=master)
 
 # sampleApplication
 
